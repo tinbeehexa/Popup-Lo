@@ -1,0 +1,22 @@
+.hint {
+    display: none;
+}
+
+#root {
+    height: 4000px;
+    position: relative;
+}
+
+/* Test scroll page */
+.popup {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 120px;
+    color: red;
+    background-color: #ccc;
+}
+
+.popup {
+    display: none;
+}
